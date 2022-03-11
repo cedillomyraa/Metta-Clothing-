@@ -1,0 +1,16 @@
+.product{
+    border: 1px solid rgb(255, 173, 186);
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(255, 173, 186);
+}
+
+.product .price, .product .total{
+    display: block;
+}
+.product #add{
+    margin-top: 5px;
+}
